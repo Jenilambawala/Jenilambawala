@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jenil Ambawala</h1>
-<h3 align="center">Pursuing M.Sc.(C.A.) | Front-end Developer (React Js) </h3>
+<h3 align="center">Pursuing M.Sc.(Computer Application) | Front-end Developer (React Js) </h3>
 
 # 💫 About Me:
 - 📫 How to reach me jenilambawala25@gmail.com<br><br>
