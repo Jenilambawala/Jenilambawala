@@ -16,6 +16,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Jenilambawala&color=blue)
 [![](https://visitcount.itsvg.in/api?id=Jenilambawala&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/Jenilambawala?label=Follow&style=social)](https://github.com/KrupalPatel17)
 
 <br>
 <p align="center">Created with ❤️ by Jenil Ambawala</p>
